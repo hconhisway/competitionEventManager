@@ -24,7 +24,7 @@
     "umi": "^2.6.1",
     "umi-plugin-react": "^1.6.0",
     "sass-loader": "^7.1.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
